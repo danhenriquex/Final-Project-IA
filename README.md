@@ -1,2 +1,2 @@
 # Final-Project-IA
-Projeto de Inteligência Artificial - Análise de sentimentos de noticias que impactem no valor de ações.
+Artificial Intelligence Project - Analysis of sentiments of news that impact the value of shares.
